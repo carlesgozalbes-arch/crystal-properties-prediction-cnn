@@ -24,8 +24,3 @@ This project explores the use of Convolutional Neural Networks (CNNs) for predic
 Based on Materials Project (MPtrj dataset).
 https://next-gen.materialsproject.org/contribs/projects/MPtrj_2022_9  
 Only final relaxed structures were used.
-
-## ⚙️ Installation
-
-```bash
-pip install -r requirements.txt
